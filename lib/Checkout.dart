@@ -145,10 +145,10 @@ class _checkoutState extends State<checkout> {
               child: Column(
                 mainAxisAlignment: MainAxisAlignment.spaceBetween,
                 children: [
-                  _buildPayment('assets/images/profile.png', 'OVO', 'OVO'),
-                  _buildPayment('assets/images/profile.png', 'Dana', 'Dana'),
-                  _buildPayment('assets/images/profile.png', 'ShopeePay', 'ShopeePay'),
-                  _buildPayment('assets/images/profile.png', 'GoPay', 'GoPay'),
+                  _buildPayment('assets/images/LogoOvo.png', 'OVO', 'OVO'),
+                  _buildPayment('assets/images/LogoDana.png', 'Dana', 'Dana'),
+                  _buildPayment('assets/images/LogoShopeePay.png', 'ShopeePay', 'ShopeePay'),
+                  _buildPayment('assets/images/LogoGopay.png', 'GoPay', 'GoPay'),
                 ],
               ),
             ),
